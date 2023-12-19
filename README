@@ -1,0 +1,43 @@
+
+# English
+# Customer Portfolio - Database
+
+This MySQL database project was created to manage the customer portfolio of an insurance advisor in Argentina. It provides extensive data management related to clients and their insurance policies, as well as billing, statistics, and is designed to facilitate daily tasks for professionals.
+
+
+#  Requirements
+
+- MySQL Workbench or a similar program is required for database management.
+- Installation and configuration details are documented in the `__init__.py` file, and the environment variables are stored in the `.env` file.
+
+# Installation and Configuration
+
+1. Clone the repository to your local system.
+2. Set up the environment variables in the `.env` file with the connection information to the database:
+
+HOST='host'
+USER='user'
+PASSWORD='password'
+DATABASE='cartera_cliente'.
+
+
+# Spanish
+# Cartera de Clientes - Base de Datos
+
+Este proyecto de base de datos en MySQL fue creado para gestionar la cartera de clientes de un productor asesor de seguros en Argentina. Proporciona un amplio manejo de datos relacionados con los clientes y sus pólizas de seguros, como tambien la facturacion, estadisticas y pensado en tareas diarias para los profescionales
+
+## Requisitos
+
+- Es necesario tener MySQL Workbench u otro programa similar para la administración de bases de datos.
+- Los detalles de instalación y configuración están documentados en el archivo `__init__.py` y las variables de entorno se encuentran en el archivo `.env`.
+
+## Instalación y Configuración
+
+1. Clona el repositorio en tu sistema local.
+2. Configura las variables de entorno en el archivo `.env` con la información de conexión a la base de datos:
+
+
+HOST='host'
+USER='user'
+PASSWORD='password'
+DATABASE='cartera_cliente'
